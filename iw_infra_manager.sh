@@ -1,6 +1,5 @@
 #!/bin/bash
-
-
+# Just some things that may be useful in the future when managing VPSs
 
 function echo_err(){
 	echo "$@" 1>&2
